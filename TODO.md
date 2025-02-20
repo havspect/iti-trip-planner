@@ -1,26 +1,28 @@
-# Improve Editor
+# Enhance the Editor Experience
 
-- [ ] Change from codemirror to BlockNote
+- [ ] Upgrade to BlockNote for improved editing capabilities
   - https://www.blocknotejs.org/docs/ui-components/suggestion-menus
-- [ ] Add functionality to search for cities and use the retrieved locations
+- [ ] Integrate city search functionality with location data
 
-# Improve Map
+# Create a More Intuitive Map Interface
 
-- [ ] Show locations in order (1, 2, 3)
-- [ ] Highlight the itinieraries (> 6h = flight-blue, < 6h = public transportation or car)
-- [ ] Make comments simpler
+- [ ] Display numbered waypoints in sequence (1, 2, 3)
+- [ ] Visualize travel routes with smart color-coding
+  - Flight routes (>6h) in blue
+  - Ground transport (<6h) in alternate colors
+- [ ] Streamline the commenting system
 
-# Make results persistent
+# Enable Data Persistence
 
-- [ ] Add local-database to save the results
-- [ ] Add global user system
-- [ ] Allow sharing of trips
+- [ ] Implement local database storage for trip data
+- [ ] Develop user account system
+- [ ] Build trip sharing capabilities
 
-# Add collaboration feature
+# Foster Collaboration
 
-- [ ] Add collaboration feature
+- [ ] Design and implement collaborative editing features
 
-# Add feature to import itineries from llms
+# Leverage AI for Trip Planning
 
-- [ ] Define standard prompt with return values
-- [ ] Give examples
+- [ ] Create standardized LLM prompt templates
+- [ ] Develop comprehensive example library
